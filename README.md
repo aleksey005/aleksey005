@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aleksey005 Aleksey Kadetov
 - 👀 I’m interested in DevOps, Networking and CI/CD
 - 🌱 I’m currently learning Helm and Kubernetes Operators
-- 💞️ I’m looking to collaborate on Rancher
+- 💞️ I’m looking to collaborate on DevOps
 - 📫 How to reach me Github
 
 <!---
