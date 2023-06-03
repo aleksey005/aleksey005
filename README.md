@@ -10,7 +10,8 @@ My Articles:
 - https://www.suse.com/c/rancher_blog/run-your-first-ci-cd-pipeline-with-rancher/
 
 Presentations:
-- https://github.com/aleksey005/aleksey005/blob/main/Minimal_CI_CD.pdf
+- https://github.com/aleksey005/aleksey005/blob/main/Minimal_CI_CD.pdf - Ru
+- https://github.com/aleksey005/aleksey005/blob/main/Minimal_CI_CD_Eng.pdf - Eng
 
 <!---
 aleksey005/aleksey005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
