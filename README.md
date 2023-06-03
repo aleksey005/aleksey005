@@ -9,6 +9,9 @@ My Articles:
 - https://www.suse.com/c/rancher_blog/run-your-first-secure-and-dns-with-rancher/
 - https://www.suse.com/c/rancher_blog/run-your-first-ci-cd-pipeline-with-rancher/
 
+Presentations:
+- https://github.com/aleksey005/aleksey005/blob/main/Minimal_CI_CD.pdf
+
 <!---
 aleksey005/aleksey005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
