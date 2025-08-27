@@ -1,0 +1,6 @@
+local handle = assert(io.popen("lua hello.lua", "r"))
+local output = handle:read("*a")
+local success, _, code = handle:close()
+assert(success, "hello.lua did not run successfully: exit code " .. tostring(code))
+assert(output:gsub("%s+$", "") == "Hello World!", "Output should be 'Hello World!'")
+print("All tests passed")
